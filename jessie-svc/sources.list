@@ -1,0 +1,5 @@
+# customized sources.list
+deb http://debian.fastweb.it/debian/ jessie main non-free contrib
+deb http://security.debian.org/ jessie/updates main contrib non-free
+deb http://debian.fastweb.it/debian/ jessie-updates main contrib non-free
+deb http://ftp.de.debian.org/debian jessie-backports main
